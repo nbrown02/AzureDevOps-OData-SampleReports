@@ -4,8 +4,21 @@ A collection of all the [sample OData Power BI reports](https://docs.microsoft.c
 
 ### Prerequisites
 * [Make sure you have the latest version of Power BI Desktop](https://aka.ms/pbiSingleInstaller)
-* Download your chosen template(s)
-* Then you're good to get started!
+* Download your chosen template(s):
+
+## Full list of reports
+
+| Azure Boards  | Azure Test Plans | Pipeline  | Pipeline & Test |
+| ------------- | ------------- | ------------- | ------------- |
+| [Open Bugs]() | Progress status | Outcome summary | Test summary |
+| Bug trend  | Requirements tracking  | Outcome summary for all pipelines | Test summary trend |
+| Rollup  | Requirements tracking - Rollup | Pass rate trend | Failed tests |
+| Feature progress  | Execution Trend  | Stage wise failures | Flaky tests |
+| Work items and direct links  | Test suites aggregated view  | Duration | Test duration |
+| Release burndown  | Tester by outcome matrix  | Configuration by outcome matrix | Test duration trend |
+| Sprint burndown  |   | Duration trend | Pass rate trend of a test |
+| Cumulative Flow Diagram (CFD)  |   | Task duration | ------------- |
+| Lead/Cycle Time  |   | Task duration trend | ------------- |
 
 ### Connectivity
 * Open the .pbit file
@@ -22,35 +35,5 @@ Don't confuse the team name with the project name, a common mistake. If the URL 
 
 * Once signed in hit 'Load' and wait for your charts to populate!
 
-## Full list of reports
+### Screenshots
 
-| Azure Boards  | Azure Test Plans | Azure Boards  | Azure Test Plans |
-| ------------- | ------------- | ------------- | ------------- |
-| [Open Bugs]() | Progress status |
-| Bug trend  | Requirements tracking  |
-| Rollup  | Requirements tracking - Rollup  |
-| Feature progress  | Execution Trend  |
-| Work items and direct links  | Test suites aggregated view  |
-| Release burndown  | Tester by outcome matrix  |
-| Sprint burndown  | Configuration by outcome matrix  |
-| Cumulative Flow Diagram (CFD)  |   |
-| Lead/Cycle Time  |   |
-
-### Pipeline
-* Outcome summary
-* Outcome summary for all pipelines
-* Pass rate trend
-* Stage wise failures
-* Duration
-* Duration trend
-* Task duration
-* Task duration trend
-
-### Pipeline & Test
-* Test summary
-* Test summary trend
-* Failed tests
-* Flaky tests
-* Test duration
-* Test duration trend
-* Pass rate trend of a test
