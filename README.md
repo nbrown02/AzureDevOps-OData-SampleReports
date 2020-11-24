@@ -22,6 +22,11 @@ Don't confuse the team name with the project name, a common mistake. If the URL 
 
 * Once signed in hit 'Load' and wait for your charts to populate!
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| [Open Bugs](www.google.com)  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 ## Full list of reports
 ### Azure Boards
 * Open bugs
