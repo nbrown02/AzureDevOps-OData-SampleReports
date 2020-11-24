@@ -17,8 +17,8 @@ A collection of all the [sample OData Power BI reports](https://docs.microsoft.c
 | Work items and direct links  | Test suites aggregated view  | Duration | Test duration |
 | Release burndown  | Tester by outcome matrix  | Configuration by outcome matrix | Test duration trend |
 | Sprint burndown  |   | Duration trend | Pass rate trend of a test |
-| Cumulative Flow Diagram (CFD)  |   | Task duration | ------------- |
-| Lead/Cycle Time  |   | Task duration trend | ------------- |
+| Cumulative Flow Diagram (CFD)  |   | Task duration |  |
+| Lead/Cycle Time  |   | Task duration trend |  |
 
 ### Connectivity
 * Open the .pbit file
