@@ -22,31 +22,19 @@ Don't confuse the team name with the project name, a common mistake. If the URL 
 
 * Once signed in hit 'Load' and wait for your charts to populate!
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| [Open Bugs](www.google.com)  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 ## Full list of reports
-### Azure Boards
-* Open bugs
-* Bug trend
-* Rollup
-* Feature progress
-* Work items and direct links
-* Release burndown
-* Sprint burndown
-* Cumulative Flow Diagram (CFD)
-* Lead/Cycle Time
 
-### Azure Test Plans
-* Progress status
-* Requirements tracking
-* Requirements tracking - Rollup
-* Execution Trend
-* Test suites aggregated view
-* Tester by outcome matrix
-* Configuration by outcome matrix
+| Azure Boards  | Azure Test Plans | Azure Boards  | Azure Test Plans |
+| ------------- | ------------- | ------------- | ------------- |
+| [Open Bugs]() | Progress status |
+| Bug trend  | Requirements tracking  |
+| Rollup  | Requirements tracking - Rollup  |
+| Feature progress  | Execution Trend  |
+| Work items and direct links  | Test suites aggregated view  |
+| Release burndown  | Tester by outcome matrix  |
+| Sprint burndown  | Configuration by outcome matrix  |
+| Cumulative Flow Diagram (CFD)  |   |
+| Lead/Cycle Time  |   |
 
 ### Pipeline
 * Outcome summary
