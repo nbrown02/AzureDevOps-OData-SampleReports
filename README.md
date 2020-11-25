@@ -8,7 +8,7 @@ A collection of all the [sample OData Power BI reports](https://docs.microsoft.c
 
 ## Full list of reports
 
-| Azure Boards  | Azure Test Plans | Pipeline  | Pipeline & Test |
+| Azure Boards  | Azure Test Plans | Azure Pipelines | Azure Pipeline & Test |
 | ------------- | ------------- | ------------- | ------------- |
 | [Open Bugs](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards%20-%20OData%20Reports/Open%20Bugs.pbit) | Progress status | [Outcome summary](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Pipelines%20-%20OData%20Reports/Pipeline%20Outcome%20Summary.pbit) | Test summary |
 | [Bug trend](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards%20-%20OData%20Reports/Bug%20Trend.pbit) | Requirements tracking  | [Outcome summary for all pipelines](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Pipelines%20-%20OData%20Reports/Pipeline%20Outcome%20Summary%20-%20All%20Pipelines.pbit) | Test summary trend |
@@ -37,4 +37,12 @@ Don't confuse the team name with the project name, a common mistake. If the URL 
 * Once signed in hit 'Load' and wait for your charts to populate!
 
 ### Screenshots
+![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Pipeline%20Outcome%20Summary%20Report.png)
+
+![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Pipeline%20Outcome%20Summary%20-%20All%20Pipelines.png)
+
+![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Pipeline%20Duration.png)
+
+![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Bug%20Trend%20Report.png)
+
 
