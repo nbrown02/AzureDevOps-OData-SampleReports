@@ -13,7 +13,7 @@ A collection of all the [sample OData Power BI reports](https://docs.microsoft.c
 | [Open Bugs](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards%20-%20OData%20Reports/Open%20Bugs.pbit) | Progress status | [Outcome summary](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Pipelines%20-%20OData%20Reports/Pipeline%20Outcome%20Summary.pbit) | Test summary |
 | [Bug trend](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards%20-%20OData%20Reports/Bug%20Trend.pbit) | Requirements tracking  | [Outcome summary for all pipelines](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Pipelines%20-%20OData%20Reports/Pipeline%20Outcome%20Summary%20-%20All%20Pipelines.pbit) | Test summary trend |
 | [Rollup](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards%20-%20OData%20Reports/Rollup.pbit)  | Requirements tracking - Rollup | Pass rate trend | Failed tests |
-| Feature progress  | Execution Trend  | Stage wise failures | Flaky tests |
+| Feature progress  | Execution Trend  | [Stage/Task/Job Wise Failures(https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Pipelines%20-%20OData%20Reports/Pipeline%20Stage%20-%20Task%20-%20Job%20Wise%20Failures.pbit) | Flaky tests |
 | Work items and direct links  | Test suites aggregated view  | [Pipeline Duration](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Pipelines%20-%20OData%20Reports/Pipeline%20Duration.pbit) | Test duration |
 | Release burndown  | Tester by outcome matrix  | [Duration Trend](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Pipelines%20-%20OData%20Reports/Duration%20Trend.pbit) | Test duration trend |
 | Sprint burndown  |   | Task Duration  | Pass rate trend of a test |
@@ -44,5 +44,3 @@ Don't confuse the team name with the project name, a common mistake. If the URL 
 ![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Pipeline%20Duration.png)
 
 ![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Bug%20Trend%20Report.png)
-
-
