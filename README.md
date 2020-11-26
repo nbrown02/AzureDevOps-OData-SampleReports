@@ -15,8 +15,8 @@ A collection of all the [sample OData Power BI reports](https://docs.microsoft.c
 | [Rollup](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards%20-%20OData%20Reports/Rollup.pbit)  | Requirements tracking - Rollup | Pass rate trend | Failed tests |
 | Feature progress  | Execution Trend  | Stage wise failures | Flaky tests |
 | Work items and direct links  | Test suites aggregated view  | [Pipeline Duration](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Pipelines%20-%20OData%20Reports/Pipeline%20Duration.pbit) | Test duration |
-| Release burndown  | Tester by outcome matrix  | Configuration by outcome matrix | Test duration trend |
-| Sprint burndown  |   | Duration trend | Pass rate trend of a test |
+| Release burndown  | Tester by outcome matrix  | Duration Trend | Test duration trend |
+| Sprint burndown  |   |   | Pass rate trend of a test |
 | Cumulative Flow Diagram (CFD)  |   | Task duration |  |
 | Lead/Cycle Time  |   | Task duration trend |  |
 
