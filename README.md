@@ -37,10 +37,12 @@ Don't confuse the team name with the project name, a common mistake. If the URL 
 * Once signed in hit 'Load' and wait for your charts to populate!
 
 ### Screenshots
-![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Pipeline%20Outcome%20Summary%20Report.png)
+![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Pipeline%20Pass%20Rate%20.png)
 
 ![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Pipeline%20Outcome%20Summary%20-%20All%20Pipelines.png)
 
 ![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Pipeline%20Duration.png)
 
 ![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Bug%20Trend%20Report.png)
+
+![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Pipeline%20Job%20Wise%20Failures.png)
