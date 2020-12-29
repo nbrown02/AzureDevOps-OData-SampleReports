@@ -12,13 +12,12 @@ A collection of all the [sample OData Power BI reports](https://docs.microsoft.c
 | ------------- | ------------- | ------------- | ------------- |
 | [Open Bugs](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards%20-%20OData%20Reports/Open%20Bugs.pbit) | Progress status | [Outcome summary](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Pipelines%20-%20OData%20Reports/Pipeline%20Outcome%20Summary.pbit) | Test summary |
 | [Bug trend](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards%20-%20OData%20Reports/Bug%20Trend.pbit) | Requirements tracking  | [Outcome summary for all pipelines](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Pipelines%20-%20OData%20Reports/Pipeline%20Outcome%20Summary%20-%20All%20Pipelines.pbit) | Test summary trend |
-| [Rollup](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards%20-%20OData%20Reports/Rollup.pbit)  | Requirements tracking - Rollup | Pass rate trend | Failed tests |
-| Feature progress  | Execution Trend  | Stage wise failures | Flaky tests |
+| [Rollup](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards%20-%20OData%20Reports/Rollup.pbit)  | Requirements tracking - Rollup | [Pass rate trend](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Pipelines%20-%20OData%20Reports/Pass%20Rate%20-%20All%20Pipelines.pbit) | Failed tests |
+| Feature progress  | Execution Trend  | [Stage/Task/Job Wise Failures](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Pipelines%20-%20OData%20Reports/Pipeline%20Stage%20-%20Task%20-%20Job%20Wise%20Failures.pbit) | Flaky tests |
 | Work items and direct links  | Test suites aggregated view  | [Pipeline Duration](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Pipelines%20-%20OData%20Reports/Pipeline%20Duration.pbit) | Test duration |
-| Release burndown  | Tester by outcome matrix  | Duration Trend | Test duration trend |
-| Sprint burndown  |   |   | Pass rate trend of a test |
-| Cumulative Flow Diagram (CFD)  |   | Task duration |  |
-| Lead/Cycle Time  |   | Task duration trend |  |
+| Sprint Burndown  | Tester by outcome matrix  | [Duration Trend](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Pipelines%20-%20OData%20Reports/Duration%20Trend.pbit) | Test duration trend |
+| [Cumulative Flow Diagram (CFD)](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards%20-%20OData%20Reports/Cumulative%20Flow%20Diagram.pbit)  |   | Task Duration  | Pass rate trend of a test |
+| [Lead/Cycle Time](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards%20-%20OData%20Reports/Lead%20-%20Cycle%20Time.pbit)  |   | Task Duration Trend |  |
 
 ### Connectivity
 * Open the .pbit file
@@ -37,7 +36,7 @@ Don't confuse the team name with the project name, a common mistake. If the URL 
 * Once signed in hit 'Load' and wait for your charts to populate!
 
 ### Screenshots
-![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Pipeline%20Outcome%20Summary%20Report.png)
+![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Pipeline%20Pass%20Rate.png)
 
 ![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Pipeline%20Outcome%20Summary%20-%20All%20Pipelines.png)
 
@@ -45,4 +44,6 @@ Don't confuse the team name with the project name, a common mistake. If the URL 
 
 ![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Bug%20Trend%20Report.png)
 
+![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Pipeline%20Job%20Wise%20Failures.png)
 
+![alt_text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports//main/Screenshots/Duration%20Trend.png)
