@@ -51,3 +51,9 @@ Don't confuse the team name with the project name, a common mistake. If the URL 
 ![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Test%20Execution%20Trend%.png)
 
 ![alt_text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports//main/Screenshots/Progress%20Status.png)
+
+![alt_text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Pass%20Rate%20Trend%20of%20a%20Test.png)
+
+![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Pipeline%20Test%20Summary%20Trend.png)
+
+![alt_text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Test%20Duration%20Trend.png)
