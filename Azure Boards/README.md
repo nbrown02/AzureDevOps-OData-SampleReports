@@ -12,7 +12,7 @@ A collection of Power BI templates for all the [sample Azure Boards OData Power 
 * Cumulative Flow Diagram - on any particular data, the number of work items in a particular column on the kanban board.
 * Feature Progress - displays progress of Features based on completed child items. Visualized in both count of items and overall percentage complete.
 * Lead/Cycle Time - displays the average lead time (Created -> Done) or average cycle time (In Progress -> Done) for a given set of items.
-* Open Bugs - displays, for a given set of open Bugs, a breakdown by State and Assigned To fields.
+* [Open Bugs](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards/Open%20Bugs.pbit) - displays, for a given set of open Bugs, a breakdown by State and Assigned To fields.
 * Rollup - displays the rollup count of User Stories/PBIs and total Story Points for a given set of Features.
 * Sprint Burndown - display the current sprint's burndown of User Stories/PBIs in both count of items and sum of story points. 
 * Work Items and Direct Links - a table with a detailed list of work items and their associated links.
