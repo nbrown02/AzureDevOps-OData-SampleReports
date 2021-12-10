@@ -1,4 +1,4 @@
-# Template Reports for Azure Boards (Azure DevOps / ADO Server / TFS)
+# Template Reports for Azure Boards (Azure DevOps / Server / TFS)
 ### What is it?
 A collection of Power BI templates for all the [sample Azure Boards OData Power BI reports](https://docs.microsoft.com/en-us/azure/devops/report/powerbi/sample-odata-overview?view=azure-devops) provided by Microsoft for you to visualise your Azure DevOps Boards (or Azure DevOps Server/TFS) data. This way you can save time, download the respective template(s), enter your organization and project details then visualize your data. 
 
