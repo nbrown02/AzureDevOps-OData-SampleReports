@@ -8,14 +8,14 @@ A collection of Power BI templates for all the [sample Azure Boards OData Power 
 
 ## Full list of sample reports for Azure Boards
 
-* Bug Trend - for a given set of open Bugs, the number of Bugs in each State, trended over a period of time. 
-* Cumulative Flow Diagram - on any particular data, the number of work items in a particular column on the kanban board.
-* Feature Progress - displays progress of Features based on completed child items. Visualized in both count of items and overall percentage complete.
-* Lead/Cycle Time - displays the average lead time (Created -> Done) or average cycle time (In Progress -> Done) for a given set of items.
+* [Bug Trend](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards/Bug%20Trend.pbit) - for a given set of open Bugs, the number of Bugs in each State, trended over a period of time. 
+* [Cumulative Flow Diagram (CFD)](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards/Cumulative%20Flow%20Diagram.pbit) - on any particular data, the number of work items in a particular column on the kanban board.
+* [Feature Progress](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards/Feature%20Progress.pbit) - displays progress of Features based on completed child items. Visualized in both count of items and overall percentage complete.
+* [Lead/Cycle Time](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards/Lead%20-%20Cycle%20Time.pbit) - displays the average lead time (Created -> Done) or average cycle time (In Progress -> Done) for a given set of items.
 * [Open Bugs](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards/Open%20Bugs.pbit) - displays, for a given set of open Bugs, a breakdown by State and Assigned To fields.
-* Rollup - displays the rollup count of User Stories/PBIs and total Story Points for a given set of Features.
-* Sprint Burndown - display the current sprint's burndown of User Stories/PBIs in both count of items and sum of story points. 
-* Work Items and Direct Links - a table with a detailed list of work items and their associated links.
+* [Rollup](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards/Rollup.pbit) - displays the rollup count of User Stories/PBIs and total Story Points for a given set of Features.
+* [Sprint Burndown](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards/Sprint%20Burndown.pbit) - display the current sprint's burndown of User Stories/PBIs in both count of items and sum of story points. 
+* [Work Items With Direct Links](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards/Work%20Items%20with%20Direct%20Links.pbit) - a table with a detailed list of work items and their associated links.
 
 ### Connectivity
 * Open the .pbit file
