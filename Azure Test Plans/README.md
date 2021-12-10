@@ -8,14 +8,13 @@ A collection of Power BI templates for all the [sample Azure Test Plans OData Po
 
 ## Full list of sample reports for Azure Test Plans
 
-* [Bug Trend](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards/Bug%20Trend.pbit) - for a given set of open Bugs, the number of Bugs in each State, trended over a period of time. 
-* [Cumulative Flow Diagram (CFD)](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards/Cumulative%20Flow%20Diagram.pbit) - on any particular data, the number of work items in a particular column on the kanban board.
-* [Feature Progress](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards/Feature%20Progress.pbit) - displays progress of Features based on completed child items. Visualized in both count of items and overall percentage complete.
-* [Lead/Cycle Time](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards/Lead%20-%20Cycle%20Time.pbit) - displays the average lead time (Created -> Done) or average cycle time (In Progress -> Done) for a given set of items.
-* [Open Bugs](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards/Open%20Bugs.pbit) - displays, for a given set of open Bugs, a breakdown by State and Assigned To fields.
-* [Rollup](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards/Rollup.pbit) - displays the rollup count of User Stories/PBIs and total Story Points for a given set of Features.
-* [Sprint Burndown](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards/Sprint%20Burndown.pbit) - display the current sprint's burndown of User Stories/PBIs in both count of items and sum of story points. 
-* [Work Items With Direct Links](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards/Work%20Items%20with%20Direct%20Links.pbit) - a table with a detailed list of work items and their associated links.
+* [Progress Status](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Test%20Plans/Progress%20Status.pbit) - shows the execution state of one or more Test Plans.
+* [Requirements Tracking & Traceability](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Test%20Plans%20-%20OData%20Reports/Requirements%20Tracking%20(Traceability).pbit) - shows the progress of tests against a particular work item (User Story/PBI) and link between test cases.
+* [Test Suites Aggregated View](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Test%20Plans/Suite%20Level%20Aggregation.pbit) - aggregation of test results by test suite(s).
+* [Test Configuration Outcome Matrix](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Test%20Plans/Test%20Configuration%20by%20Outcome.pbit) - shows the progress of tests made for each configuration.
+* [Test Execution Trend](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Test%20Plans/Test%20Execution%20Trend.pbit) - shows the execution state of one or more Test Plans.
+* [Test Status Report](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Test%20Plans/Test%20Status%20Report.pbit) - shows aggregated Test Cases and their status for all Test Plans within a project.
+* [Tester by Outcome Matrix](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Test%20Plans/Tester%20by%20Outcome.pbit)  - shows the distribution of test outcomes across testers to figure out how the tests can be load-balanced.
 
 ### Connectivity
 * Open the .pbit file
