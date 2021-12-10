@@ -1,6 +1,6 @@
-# Template Reports for Azure Boards (Azure DevOps / Server / TFS)
+# Template Reports for Azure Pipelines & Test (Azure DevOps / Server / TFS)
 ### What is it?
-A collection of Power BI templates for all the [sample Azure Boards OData Power BI reports](https://docs.microsoft.com/en-us/azure/devops/report/powerbi/sample-odata-overview?view=azure-devops) provided by Microsoft for you to visualise your Azure DevOps Boards (or Azure DevOps Server/TFS) data. This way you can save time, download the respective template(s), enter your organization and project details then visualize your data. 
+A collection of Power BI templates for all the [sample Azure Pipelines & Test OData Power BI reports](https://docs.microsoft.com/en-us/azure/devops/report/powerbi/sample-odata-overview?view=azure-devops) provided by Microsoft for you to visualise your Azure DevOps Pipelines & Test (or Azure DevOps Server/TFS) data. This way you can save time, download the respective template(s), enter your organization and project details then visualize your data. 
 
 ### Prerequisites
 * [Make sure you have the latest version of Power BI Desktop](https://aka.ms/pbiSingleInstaller)
@@ -8,14 +8,13 @@ A collection of Power BI templates for all the [sample Azure Boards OData Power 
 
 ## Full list of sample reports for Azure Boards
 
-* [Bug Trend](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards/Bug%20Trend.pbit) - for a given set of open Bugs, the number of Bugs in each State, trended over a period of time. 
-* [Cumulative Flow Diagram (CFD)](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards/Cumulative%20Flow%20Diagram.pbit) - on any particular data, the number of work items in a particular column on the kanban board.
-* [Feature Progress](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards/Feature%20Progress.pbit) - displays progress of Features based on completed child items. Visualized in both count of items and overall percentage complete.
-* [Lead/Cycle Time](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards/Lead%20-%20Cycle%20Time.pbit) - displays the average lead time (Created -> Done) or average cycle time (In Progress -> Done) for a given set of items.
-* [Open Bugs](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards/Open%20Bugs.pbit) - displays, for a given set of open Bugs, a breakdown by State and Assigned To fields.
-* [Rollup](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards/Rollup.pbit) - displays the rollup count of User Stories/PBIs and total Story Points for a given set of Features.
-* [Sprint Burndown](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards/Sprint%20Burndown.pbit) - display the current sprint's burndown of User Stories/PBIs in both count of items and sum of story points. 
-* [Work Items With Direct Links](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards/Work%20Items%20with%20Direct%20Links.pbit) - a table with a detailed list of work items and their associated links.
+* [Failed Tests](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Pipelines%20%26%20Test/Failed%20Tests.pbit) - shows the list of failed tests for a pipeline. 
+* [Flaky Tests](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Pipelines%20%26%20Test/Flaky%20Tests.pbit) - shows the list of flaky tests for a pipeline.
+* [Pass Rate Trend of a Test](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Pipelines%20%26%20Test/Pass%20Rate%20Trend%20of%20a%20Test.pbit) - shows day wise trend of number of times a test passed and failed, along with its pass rate of any given test of a pipeline.
+* [Pipeline Test Summary Trend](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Pipelines%20%26%20Test/Pipeline%20Test%20Summary%20Trend.pbit) - shows day wise trend of number of total failed tests and test pass rate for a pipeline.
+* [Pipeline Test Summary](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Pipelines%20%26%20Test/Pipeline%20Test%20Summary.pbit) - shows the number of test runs for different test outcomes - Passed, Failed, Not executed, Not impacted.
+* [Test Duration Trend](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Pipelines%20%26%20Test/Test%20Duration%20Trend.pbit) - shows the day wise trend of the average time taken to execute a test for a selected time range.
+* [Test Duration](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Pipelines%20%26%20Test/Test%20Duration.pbit) - shows list of all the tests in a pipeline and the average time taken to execute each test for a selected time range.
 
 ### Connectivity
 * Open the .pbit file
