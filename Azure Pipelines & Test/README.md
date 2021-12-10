@@ -6,7 +6,7 @@ A collection of Power BI templates for all the [sample Azure Pipelines & Test OD
 * [Make sure you have the latest version of Power BI Desktop](https://aka.ms/pbiSingleInstaller)
 * Download your chosen template(s):
 
-## Full list of sample reports for Azure Boards
+## Full list of sample reports for Azure Pipelines and Test
 
 * [Failed Tests](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Pipelines%20%26%20Test/Failed%20Tests.pbit) - shows the list of failed tests for a pipeline. 
 * [Flaky Tests](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Pipelines%20%26%20Test/Flaky%20Tests.pbit) - shows the list of flaky tests for a pipeline.
