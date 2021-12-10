@@ -1,12 +1,12 @@
-# Template Reports for Azure Boards (Azure DevOps / Server / TFS)
+# Template Reports for Azure Test Plans (Azure DevOps / Server / TFS)
 ### What is it?
-A collection of Power BI templates for all the [sample Azure Boards OData Power BI reports](https://docs.microsoft.com/en-us/azure/devops/report/powerbi/sample-odata-overview?view=azure-devops) provided by Microsoft for you to visualise your Azure DevOps Boards (or Azure DevOps Server/TFS) data. This way you can save time, download the respective template(s), enter your organization and project details then visualize your data. 
+A collection of Power BI templates for all the [sample Azure Test Plans OData Power BI reports](https://docs.microsoft.com/en-us/azure/devops/report/powerbi/sample-odata-overview?view=azure-devops) provided by Microsoft for you to visualise your Azure DevOps Boards (or Azure DevOps Server/TFS) data. This way you can save time, download the respective template(s), enter your organization and project details then visualize your data. 
 
 ### Prerequisites
 * [Make sure you have the latest version of Power BI Desktop](https://aka.ms/pbiSingleInstaller)
 * Download your chosen template(s):
 
-## Full list of sample reports for Azure Boards
+## Full list of sample reports for Azure Test Plans
 
 * [Bug Trend](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards/Bug%20Trend.pbit) - for a given set of open Bugs, the number of Bugs in each State, trended over a period of time. 
 * [Cumulative Flow Diagram (CFD)](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards/Cumulative%20Flow%20Diagram.pbit) - on any particular data, the number of work items in a particular column on the kanban board.
