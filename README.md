@@ -30,11 +30,11 @@ Don't confuse the team name with the project name, a common mistake. If the URL 
 * It should then look something like this:
 
 Azure DevOps Services:
-![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/main/Screenshots/AzDO%20Services%20Login.png)
+![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Boards1.png)
 
 
 Azure DevOps Server:
-![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/main/Screenshots/AzDO%20Server%20Login.png)
+![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Boards2.png)
 
 * Hit 'Load' 
 * If you are prompted for a login, you can choose:
