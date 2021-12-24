@@ -21,15 +21,25 @@ A collection of Power BI templates for all the [sample Azure DevOps OData Power 
 
 ### Connectivity
 * Open the .pbit file
+* Select http/https (only choose http if your Azure DevOps Server is HTTP)
+* Add the Analytics / Azure DevOps Server URL - for Azure DevOps services enter 'analytics.dev.azure.com' / for Azure DevOps Server enter your server details
 * Add your organization and project name
 
 Don't confuse the team name with the project name, a common mistake. If the URL you use is "http://dev.azure.com/Microsoft-UK/AzureDevOpsTeam/Database", then Microsoft-UK is the Organization Name, AzureDevOpsTeam is the Project name, Database is the team name.
 
-* Enter/select any other fields required by the template
-* Hit load 
+* It should then look something like this:
+
+Azure DevOps Services:
+![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/main/Screenshots/AzDO%20Services%20Login.png)
+
+
+Azure DevOps Server:
+![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz/main/Screenshots/AzDO%20Server%20Login.png)
+
+* Hit 'Load' 
 * If you are prompted for a login, you can choose:
   - 'Organizational' and enter your Organization email/password (if required) and sign in
-  - 'Basic' and use a Personal Access Token (PAT) to login, entering it in the password field (user can be left as blank). Be sure the PAT has access to Analytics views
+  - 'Basic' and use a Personal Access Token (PAT) to login, entering it in the password field (user can be left as blank - make sure it has 'Read' access to Analytics)
 
   ![alt text](https://docs.microsoft.com/en-us/azure/devops/report/powerbi/media/authentication-7.png?view=azure-devops)
 
