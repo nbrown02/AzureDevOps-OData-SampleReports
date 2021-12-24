@@ -32,9 +32,11 @@ Don't confuse the team name with the project name, a common mistake. If the URL 
 Azure DevOps Services:
 ![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Boards1.png)
 
-
 Azure DevOps Server:
 ![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Boards2.png)
+
+Note - certain templates may ask for additional information before loading, for example:
+![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Boards3.png)
 
 * Hit 'Load' 
 * If you are prompted for a login, you can choose:
@@ -44,10 +46,6 @@ Azure DevOps Server:
   ![alt text](https://docs.microsoft.com/en-us/azure/devops/report/powerbi/media/authentication-7.png?view=azure-devops)
 
 * Once signed in hit 'Load' and wait for your charts to populate!
-
-
-Note: certain templates may ask for additional information before loading, for example
-![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Boards3.png)
 
 ### Screenshots
 ![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Pipeline%20Pass%20Rate.png)
