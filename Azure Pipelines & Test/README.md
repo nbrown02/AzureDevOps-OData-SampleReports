@@ -27,10 +27,10 @@ Don't confuse the team name with the project name, a common mistake. If the URL 
 * It should then look something like this:
 
 Azure DevOps Services:
-![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Pipelines1.png)
+![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/PipelineTest1.png)
 
 Azure DevOps Server:
-![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Pipelines2.png)
+![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/PipelineTest2.png)
 
 Note - certain templates may ask for additional information before loading, for example:
 ![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/PipelineTest3.png)
