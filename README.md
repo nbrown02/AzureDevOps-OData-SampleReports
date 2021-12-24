@@ -45,6 +45,10 @@ Azure DevOps Server:
 
 * Once signed in hit 'Load' and wait for your charts to populate!
 
+
+Note: certain templates may ask for additional information before loading, for example
+![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Boards3.png)
+
 ### Screenshots
 ![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Pipeline%20Pass%20Rate.png)
 
