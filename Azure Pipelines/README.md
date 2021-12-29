@@ -1,12 +1,12 @@
 # Template Reports for Azure Pipelines (Azure DevOps / Server / TFS)
-### What is it?
+## What is it?
 A collection of Power BI templates for all the [sample Azure Pipelines OData Power BI reports](https://docs.microsoft.com/en-us/azure/devops/report/powerbi/sample-odata-overview?view=azure-devops) provided by Microsoft for you to visualise your Azure DevOps Boards (or Azure DevOps Server/TFS) data. This way you can save time, download the respective template(s), enter your organization and project details then visualize your data. 
 
-### Prerequisites
+## Prerequisites
 * [Make sure you have the latest version of Power BI Desktop](https://aka.ms/pbiSingleInstaller)
 * Download your chosen template(s):
 
-## Full list of sample reports for Azure Pipelines
+## Full list of report templates for Azure Pipelines
 
 * [Duration Trend](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Pipelines/Duration%20Trend.pbit) - shows how long your pipeline typically takes to complete successfully. 
 * [Pass Rate Trend](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Pipelines/Pass%20Rate%20-%20All%20Pipelines.pbit) - shows a pipeline's daily pass rate trend. Pass rate of a pipeline is defined as the percentage of successful pipeline runs to the total pipeline runs.
@@ -17,7 +17,7 @@ A collection of Power BI templates for all the [sample Azure Pipelines OData Pow
 * [Task Duration Trend](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Pipelines/Pipeline%20Task%20Duration%20Trend.pbit) - shows the daily trend report of the time taken to execute a pipeline task.
 * [Task Duration](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Pipelines/Pipeline%20Task%20Duration.pbit) - shows the time taken to execute different tasks of a pipeline.
 
-### Connectivity
+## Connectivity
 * Open the .pbit file
 * Select http/https (only choose http if your Azure DevOps Server is HTTP)
 * Add the Analytics / Azure DevOps Server URL - for Azure DevOps services enter 'analytics.dev.azure.com' / for Azure DevOps Server enter your server details
