@@ -1,6 +1,6 @@
 # Power BI Template Reports using OData for Azure DevOps/Azure DevOps Server/TFS 
 ### What is it?
-A collection of Power BI templates for all of the [sample Azure DevOps OData Power BI reports](https://docs.microsoft.com/en-us/azure/devops/report/powerbi/sample-odata-overview?view=azure-devops) provided by Microsoft for you to visualise your Azure DevOps (or Azure DevOps Server/TFS) data. This way you can save time, download the respective template(s), enter your organization and project details then visualize your data. 
+A collection of Power BI templates for all of the [sample Azure DevOps OData Power BI reports](https://docs.microsoft.com/en-us/azure/devops/report/powerbi/sample-odata-overview?view=azure-devops) provided by Microsoft for you to visualise your Azure DevOps, Azure DevOps Server and/or TFS data. This way you can save time, download the respective template(s), enter your organization and project details then visualize your data. 
 
 ### Prerequisites
 * [Make sure you have the latest version of Power BI Desktop](https://aka.ms/pbiSingleInstaller)
