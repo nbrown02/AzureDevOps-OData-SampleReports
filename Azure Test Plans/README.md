@@ -32,9 +32,6 @@ Azure DevOps Services:
 Azure DevOps Server:
 ![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/TestPlans2.png)
 
-Note - certain templates may ask for additional information before loading, for example:
-![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/PipelineTest3.png)
-
 * Hit 'Load' 
 * If you are prompted for a login, you can choose:
   - 'Organizational' and enter your Organization email/password (if required) and sign in
