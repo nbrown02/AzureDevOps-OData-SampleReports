@@ -16,7 +16,7 @@ A collection of Power BI templates for all the [sample Azure Pipelines & Test OD
 * [Test Duration Trend](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Pipelines%20%26%20Test/Test%20Duration%20Trend.pbit) - shows the day wise trend of the average time taken to execute a test for a selected time range.
 * [Test Duration](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Pipelines%20%26%20Test/Test%20Duration.pbit) - shows list of all the tests in a pipeline and the average time taken to execute each test for a selected time range.
 
-## Screenshots
+## Screenshots of different reports
 ![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Azure%20Pipelines%20%26%20Test.png)
 
 ## Connectivity
