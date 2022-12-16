@@ -17,6 +17,9 @@ A collection of Power BI templates for all the [sample Azure Pipelines OData Pow
 * [Task Duration Trend](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Pipelines/Pipeline%20Task%20Duration%20Trend.pbit) - shows the daily trend report of the time taken to execute a pipeline task.
 * [Task Duration](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Pipelines/Pipeline%20Task%20Duration.pbit) - shows the time taken to execute different tasks of a pipeline.
 
+## Screenshots of different reports
+![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Azure%20Pipelines.png)
+
 ## Connectivity
 * Open the .pbit file
 * Select http/https (only choose http if your Azure DevOps Server is HTTP)
