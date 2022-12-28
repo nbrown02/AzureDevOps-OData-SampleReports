@@ -17,6 +17,9 @@ A collection of Power BI templates for all the [sample Azure Boards OData Power 
 * [Sprint Burndown](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards/Sprint%20Burndown.pbit) - display the current sprint's burndown of User Stories/PBIs in both count of items and sum of story points. 
 * [Work Items With Direct Links](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Boards/Work%20Items%20with%20Direct%20Links.pbit) - a table with a detailed list of work items and their associated links.
 
+## Screenshots of different reports
+![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Azure%20Boards.png)
+
 ## Connectivity
 * Open the .pbit file
 * Select http/https (only choose http if your Azure DevOps Server is HTTP)
