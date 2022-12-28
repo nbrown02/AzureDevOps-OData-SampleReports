@@ -46,14 +46,14 @@ Azure DevOps Server:
 
 
 ### Screenshots of different reports
-## Azure Boards
+## Azure Boards (click on image to view/zoom)
 ![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Azure%20Boards.png)
 
-## Azure Test Plans
+## Azure Test Plans (click on image to view/zoom)
 ![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Azure%20Test%20Plans.png)
 
-## Azure Pipelines
+## Azure Pipelines (click on image to view/zoom)
 ![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Azure%20Pipelines.png)
 
-## Azure Pipelines & Test
+## Azure Pipelines & Test (click on image to view/zoom)
 ![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Azure%20Pipelines%20%26%20Test.png)
