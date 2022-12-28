@@ -44,27 +44,16 @@ Azure DevOps Server:
 
 * Once signed in hit 'Load' and wait for your charts to populate!
 
-### Screenshots
-![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Pipeline%20Pass%20Rate.png)
 
-![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Pipeline%20Outcome%20Summary%20-%20All%20Pipelines.png)
+### Screenshots of different reports
+## Azure Boards
+![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Azure%20Boards.png)
 
-![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Pipeline%20Duration.png)
+## Azure Test Plans
+![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Azure%20Test%20Plans.png)
 
-![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Bug%20Trend%20Report.png)
+## Azure Pipelines
+![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Azure%20Pipelines.png)
 
-![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Pipeline%20Job%20Wise%20Failures.png)
-
-![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Pipeline%20Task%20Duration%20Trend.png)
-
-![alt_text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports//main/Screenshots/Duration%20Trend.png)
-
-![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Test%20Execution%20Trend%.png)
-
-![alt_text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports//main/Screenshots/Progress%20Status.png)
-
-![alt_text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Pass%20Rate%20Trend%20of%20a%20Test.png)
-
-![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Pipeline%20Test%20Summary%20Trend.png)
-
-![alt_text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Test%20Duration%20Trend.png)
+## Azure Pipelines & Test
+![alt text](https://raw.githubusercontent.com/nbrown02/AzureDevOps-OData-SampleReports/main/Screenshots/Azure%20Pipelines%20%26%20Test.png)
