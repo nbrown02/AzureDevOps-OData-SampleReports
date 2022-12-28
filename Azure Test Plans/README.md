@@ -9,7 +9,7 @@ A collection of Power BI templates for all the [sample Azure Test Plans OData Po
 ## Full list of report templates for Azure Test Plans
 
 * [Progress Status](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Test%20Plans/Progress%20Status.pbit) - shows the execution state of one or more Test Plans.
-* [Requirements Tracking & Traceability](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Test%20Plans%20-%20OData%20Reports/Requirements%20Tracking%20(Traceability).pbit) - shows the progress of tests against a particular work item (User Story/PBI) and link between test cases.
+* [Requirements Tracking & Traceability](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Test%20Plans/Requirements%20Tracking%20(Traceability).pbit) - shows the progress of tests against a particular work item (User Story/PBI) and link between test cases.
 * [Test Suites Aggregated View](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Test%20Plans/Suite%20Level%20Aggregation.pbit) - aggregation of test results by test suite(s).
 * [Test Configuration Outcome Matrix](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Test%20Plans/Test%20Configuration%20by%20Outcome.pbit) - shows the progress of tests made for each configuration.
 * [Test Execution Trend](https://github.com/nbrown02/AzureDevOps-OData-SampleReports/raw/main/Azure%20Test%20Plans/Test%20Execution%20Trend.pbit) - shows the execution state of one or more Test Plans.
